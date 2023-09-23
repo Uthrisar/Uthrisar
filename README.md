@@ -1,4 +1,4 @@
-![logo](https://github.com/Uthrisar/Uthrisar/blob/main/github_banner.jpeg)
+![logo](https://github.com/Uthrisar/Uthrisar/blob/main/drib_nature_gif.gif)
 <h1 align="center">Hi 👋, I'm Uthrisar Kh Boro</h1>
 <h3 align="center">A passionate fullStack Developer & CP Enthusiast from India</h3>
 
