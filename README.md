@@ -1,4 +1,4 @@
-![logo](https://github.com/Uthrisar/Uthrisar/blob/main/artificial_int_gif.gif)
+![logo](https://github.com/Uthrisar/Uthrisar/blob/main/matrix_gif.gif)
 <h1 align="center">Hi 👋, I'm Uthrisar Kh Boro</h1>
 <h3 align="center">A passionate fullStack Developer & CP Enthusiast from India</h3>
 
