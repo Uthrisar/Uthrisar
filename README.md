@@ -1,4 +1,4 @@
-<img src="geometry_8_gif.gif" alt="image">
+<img src="imgA.jpg" alt="image">
 <h1 align="center">Hi 👋, I'm Uthrisar Kh Boro</h1>
 <h3 align="center">A passionate fullStack Developer & CP Enthusiast from India</h3>
 
