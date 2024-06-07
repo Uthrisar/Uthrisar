@@ -1,4 +1,4 @@
-<img src="imgA.jpg" alt="image" height="300px" margin-left="40%" border-radius="5px">
+<img src="imgA.jpg" alt="image" height="300px" margin-left="40%" border-radius="20px">
 <h1 align="center">Hi 👋, I'm Uthrisar Kh Boro</h1>
 <h3 align="center">A passionate fullStack Developer & CP Enthusiast from India</h3>
 
